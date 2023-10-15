@@ -26,7 +26,6 @@ artisan serve
 
 * Github: [@dhirajjuneja](https://github.com/dhirajjuneja)
 
-***
 ## Dashboard
 ![bld_dash](https://github.com/dhirajjuneja/LifeSavor/assets/63409229/f9b46ba6-5edd-41aa-9d2e-b984a1c9efaa)
 ## Registration
