@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-npm install
+composer update
 ```
 
 ## Usage
