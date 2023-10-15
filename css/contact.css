@@ -1,0 +1,66 @@
+form {
+    margin-top: 39px;
+}
+
+label {
+    font-size: 23px;
+    color: gray;
+}
+
+input {
+    width: 214px;
+    height: 52px;
+    text-align: center;
+    margin-top: 18px;
+    border-radius: 7px;
+}
+
+#con {
+    margin-top: 26px;
+    border: 5px solid red;
+    border-radius: 25px;
+}
+
+.message {
+    position: relative;
+    left: 36%;
+    bottom: 18rem;
+}
+
+.form {
+    margin-bottom: -104px;
+}
+
+input {
+    width: 214px;
+    height: 52px;
+    text-align: center;
+    margin-top: 11px;
+    border-radius: 7px;
+    margin-bottom: 11px;
+}
+
+.message {
+    position: relative;
+    left: 25%;
+    bottom: 308px;
+}
+
+textarea {
+    height: 237px;
+    margin-top: 18px;
+    width: 284px;
+    border-radius: 9px;
+}
+
+button {
+    position: relative;
+    bottom: 247px;
+    left: 235px;
+    border: 1px solid rebeccapurple;
+    width: 120px;
+    height: 36px;
+    border-radius: 11px;
+    font-size: 16px;
+    cursor: pointer;
+}
